@@ -1,0 +1,5 @@
+Para cada perna de cor do led RGB, a resistência deve ser de 330R. Na foto, tem para cada 1 de 220R, 1 de 100R e 1 de 10R.
+
+Para o botão, a resistência é de 10K
+
+As pernas do LED estão invertidas, sendo o B na realidade Red e o R, Blue.

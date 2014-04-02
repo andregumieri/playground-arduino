@@ -1,0 +1,1 @@
+Resistência de 10K para o sensor de luz
